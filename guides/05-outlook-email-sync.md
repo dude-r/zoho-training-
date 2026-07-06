@@ -23,7 +23,7 @@ Most reps want **both**: background sync so nothing gets missed, and the add-in 
 
 This connects your Outlook mailbox so emails to/from your contacts land on their Zoho records automatically.
 
-1. In Zoho CRM, click the **Settings gear** (top-right).
+1. In Zoho CRM, click **Settings ⚙** (the gear, top-right).
    [Screenshot: Settings gear icon in Zoho CRM top-right]
 2. Go to **Channels → Email → Email Configuration** (sometimes shown as **Email Settings**).
    [Screenshot: Channels > Email menu in Zoho setup]

@@ -54,7 +54,7 @@ This is the heart of the view — the rules that decide which records show up.
 Decide which fields show up as columns in the list.
 
 1. In **Choose Columns**, move the fields you want into the selected list.
-2. Good defaults for a Contacts view: **Name, Account Name, Title, Email, Phone, Last Activity Time**.
+2. Good defaults for a Contacts view: **Contact Name, Account Name, Title, Email, Phone, Last Activity Time**.
 3. Drag to reorder — put the column you scan most on the left.
    [Screenshot: Choose Columns panel with selected fields on the right]
 
