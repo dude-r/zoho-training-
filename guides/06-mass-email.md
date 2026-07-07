@@ -34,7 +34,7 @@ Three pieces make a mass email:
    [Screenshot: Template preview showing a merged first name]
 7. **Save.**
 
-> **Merge field tip:** always set a default value (e.g., "there") so a blank first name reads "Hi there," not "Hi ,".
+> **Merge field tip — where to set the default:** In the **Insert Merge Fields** dialog (the same place you pick the field), there's an **alternate text** / **default value** box. Type a fallback there — e.g. `there` for first name — so a blank value reads "Hi there," not "Hi ,". Do this for every name or company field you merge; it's the single most common cause of embarrassing sends.
 
 ---
 

@@ -17,6 +17,8 @@ Practical, step-by-step guides for the sales team. These are written for reps wh
 | 5 | [Outlook Email Sync](guides/05-outlook-email-sync.md) | Connect Outlook so client correspondence logs to Zoho automatically |
 | 6 | [Mass Email](guides/06-mass-email.md) | Build templates, pick recipients, send, and track mass emails |
 
+> **New to the terminology?** Keep the **[Glossary](guides/00-glossary.md)** open as you read — it defines every Zoho term the guides use (Account, Contact, related list, merge field, custom view, and more).
+
 ---
 
 ## How these fit together
