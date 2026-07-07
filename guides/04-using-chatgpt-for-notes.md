@@ -128,4 +128,6 @@ Once ChatGPT gives you a clean version:
 4. Paste the clean version into Zoho **Notes** or a logged **Activity**.
 5. Turn next steps into a Zoho **Task** with a due date.
 
-**Next:** [Outlook Email Sync →](05-outlook-email-sync.md)
+*Guide 4 of 6*
+
+[← Previous: Custom Views](03-custom-views.md) · [Table of Contents](../README.md) · [Next: Outlook Email Sync →](05-outlook-email-sync.md)

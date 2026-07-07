@@ -85,4 +85,6 @@ To catch everyone across the whole brokerage:
 - **Contacts tab → Create View → sort by Account Name** = reusable, all brokerages.
 - **Contacts tab → Create View → filter Account Name is [X]** = locked to one brokerage.
 
-**Next:** [Custom Views →](03-custom-views.md)
+*Guide 2 of 6*
+
+[← Previous: Accounts](01-accounts.md) · [Table of Contents](../README.md) · [Next: Custom Views →](03-custom-views.md)

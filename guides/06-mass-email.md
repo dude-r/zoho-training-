@@ -108,4 +108,6 @@ After sending, Zoho tracks engagement so you know what worked.
 3. **Send:** More ⋯ → Mass Email → pick template → Send now / Schedule
 4. **Track:** Email Analytics / Reports → opens, clicks, bounces, unsubscribes → follow up accordingly
 
-**Back to:** [Table of Contents →](../README.md)
+*Guide 6 of 6*
+
+[← Previous: Outlook Email Sync](05-outlook-email-sync.md) · [Table of Contents](../README.md)

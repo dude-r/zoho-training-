@@ -103,4 +103,6 @@ The add-in puts Zoho *inside* Outlook so you can see CRM info and add emails man
 - **Verify:** send a test email → check the Contact's **Emails** section
 - **Stuck?** Reconnect the account, check the contact's email address, or ask your admin
 
-**Next:** [Mass Email →](06-mass-email.md)
+*Guide 5 of 6*
+
+[← Previous: Using ChatGPT for Notes](04-using-chatgpt-for-notes.md) · [Table of Contents](../README.md) · [Next: Mass Email →](06-mass-email.md)
