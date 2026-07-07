@@ -130,6 +130,6 @@ On a parent account record, look for the **Hierarchy** view or the **Member Acco
 - **Edit:** Open record → Edit (or pencil for one field) → Save
 - **Link hierarchy:** Edit child → set Parent Account → Save
 
-*Guide 1 of 6*
+*Guide 1 of 8*
 
 [Table of Contents](../README.md) · [Next: Contacts at a Brokerage →](02-contacts-at-a-brokerage.md)

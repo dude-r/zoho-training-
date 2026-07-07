@@ -35,7 +35,7 @@ If you check this often, build a **custom view** on the Contacts module so you d
 7. In the resulting list, click the **Account Name** column header to sort/group so everyone at the same brokerage sits together.
    [Screenshot: Contacts list sorted by Account Name column]
 
-> Full walkthrough of building views: see **[Custom Views](03-custom-views.md)**.
+> Full walkthrough of building views: see **[Custom Views](05-custom-views.md)**.
 
 ---
 
@@ -85,6 +85,6 @@ To catch everyone across the whole brokerage:
 - **Contacts tab → Create View → sort by Account Name** = reusable, all brokerages.
 - **Contacts tab → Create View → filter Account Name is [X]** = locked to one brokerage.
 
-*Guide 2 of 6*
+*Guide 2 of 8*
 
-[← Previous: Accounts](01-accounts.md) · [Table of Contents](../README.md) · [Next: Custom Views →](03-custom-views.md)
+[← Previous: Accounts](01-accounts.md) · [Table of Contents](../README.md) · [Next: Deals →](03-deals.md)

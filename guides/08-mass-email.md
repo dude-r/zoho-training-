@@ -40,7 +40,7 @@ Three pieces make a mass email:
 
 ## Step 2: Pick your recipients
 
-The cleanest way is to start from a **custom view** of exactly the people you want (see **[Custom Views](03-custom-views.md)**).
+The cleanest way is to start from a **custom view** of exactly the people you want (see **[Custom Views](05-custom-views.md)**).
 
 1. Go to the **Contacts** tab.
 2. Select (or build) a view that lists only your intended recipients — e.g. `WI Brokerage Contacts` or `Q3 Renewals`.
@@ -108,6 +108,6 @@ After sending, Zoho tracks engagement so you know what worked.
 3. **Send:** More ⋯ → Mass Email → pick template → Send now / Schedule
 4. **Track:** Email Analytics / Reports → opens, clicks, bounces, unsubscribes → follow up accordingly
 
-*Guide 6 of 6*
+*Guide 8 of 8*
 
-[← Previous: Outlook Email Sync](05-outlook-email-sync.md) · [Table of Contents](../README.md)
+[← Previous: Outlook Email Sync](07-outlook-email-sync.md) · [Table of Contents](../README.md)
