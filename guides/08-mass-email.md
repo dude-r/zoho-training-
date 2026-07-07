@@ -23,7 +23,7 @@ Three pieces make a mass email:
 
 ## Step 1: Build an email template
 
-1. Click the **Settings gear** → **Templates → Email Templates** (or go through **Channels → Email**).
+1. Click **Settings ⚙** → **Templates → Email Templates** (or go through **Channels → Email**).
    [Screenshot: Email Templates section in Zoho settings]
 2. Click **+ New Template** and pick the **Contacts** module (so merge fields pull from contacts).
 3. Choose a layout or start blank.
@@ -34,13 +34,13 @@ Three pieces make a mass email:
    [Screenshot: Template preview showing a merged first name]
 7. **Save.**
 
-> **Merge field tip:** always set a default value (e.g., "there") so a blank first name reads "Hi there," not "Hi ,".
+> **Merge field tip — where to set the default:** In the **Insert Merge Fields** dialog (the same place you pick the field), there's an **alternate text** / **default value** box. Type a fallback there — e.g. `there` for first name — so a blank value reads "Hi there," not "Hi ,". Do this for every name or company field you merge; it's the single most common cause of embarrassing sends.
 
 ---
 
 ## Step 2: Pick your recipients
 
-The cleanest way is to start from a **custom view** of exactly the people you want (see **[Custom Views](03-custom-views.md)**).
+The cleanest way is to start from a **custom view** of exactly the people you want (see **[Custom Views](05-custom-views.md)**).
 
 1. Go to the **Contacts** tab.
 2. Select (or build) a view that lists only your intended recipients — e.g. `WI Brokerage Contacts` or `Q3 Renewals`.
@@ -70,7 +70,7 @@ The cleanest way is to start from a **custom view** of exactly the people you wa
 
 After sending, Zoho tracks engagement so you know what worked.
 
-1. Go to **Settings → Email → Email Analytics**, or open **Reports** for email metrics. (On some setups, tracking shows on the individual contact's timeline too.)
+1. Go to **Settings ⚙ → Email → Email Analytics**, or open **Reports** for email metrics. (On some setups, tracking shows on the individual contact's timeline too.)
    [Screenshot: Email Analytics dashboard with open and click rates]
 2. Look at:
    - **Sent / Delivered** — did it actually go out
@@ -108,4 +108,6 @@ After sending, Zoho tracks engagement so you know what worked.
 3. **Send:** More ⋯ → Mass Email → pick template → Send now / Schedule
 4. **Track:** Email Analytics / Reports → opens, clicks, bounces, unsubscribes → follow up accordingly
 
-**Back to:** [Table of Contents →](../README.md)
+*Guide 8 of 8*
+
+[← Previous: Outlook Email Sync](07-outlook-email-sync.md) · [Table of Contents](../README.md)

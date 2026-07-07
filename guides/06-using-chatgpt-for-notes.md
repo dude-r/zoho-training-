@@ -75,7 +75,7 @@ Points to cover:
 
 [Screenshot: ChatGPT drafting a follow-up email from bullet points]
 
-Read it, tweak the voice so it sounds like *you*, then send from Outlook or Zoho (see **[Outlook Email Sync](05-outlook-email-sync.md)** so it auto-logs) or **[Mass Email](06-mass-email.md)** for a template version.
+Read it, tweak the voice so it sounds like *you*, then send from Outlook or Zoho (see **[Outlook Email Sync](07-outlook-email-sync.md)** so it auto-logs) or **[Mass Email](08-mass-email.md)** for a template version.
 
 ---
 
@@ -128,4 +128,6 @@ Once ChatGPT gives you a clean version:
 4. Paste the clean version into Zoho **Notes** or a logged **Activity**.
 5. Turn next steps into a Zoho **Task** with a due date.
 
-**Next:** [Outlook Email Sync →](05-outlook-email-sync.md)
+*Guide 6 of 8*
+
+[← Previous: Custom Views](05-custom-views.md) · [Table of Contents](../README.md) · [Next: Outlook Email Sync →](07-outlook-email-sync.md)

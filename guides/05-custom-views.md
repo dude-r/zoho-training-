@@ -122,4 +122,6 @@ Click **Save**. Your new view appears in the dropdown and is now selectable anyt
 5. Set **Sharing**
 6. **Save** → pick it from the dropdown anytime
 
-**Next:** [Using ChatGPT for Notes →](04-using-chatgpt-for-notes.md)
+*Guide 5 of 8*
+
+[← Previous: Activities](04-activities.md) · [Table of Contents](../README.md) · [Next: Using ChatGPT for Notes →](06-using-chatgpt-for-notes.md)

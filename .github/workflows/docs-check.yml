@@ -1,0 +1,20 @@
+name: Docs check
+
+# Verify the training guides' internal links and footer numbering stay intact.
+on:
+  push:
+    branches: [main]
+  pull_request:
+    paths:
+      - "guides/**"
+      - "README.md"
+      - "scripts/check-docs.sh"
+      - ".github/workflows/docs-check.yml"
+
+jobs:
+  check-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run docs checker
+        run: ./scripts/check-docs.sh
