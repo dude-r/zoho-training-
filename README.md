@@ -56,3 +56,10 @@ The GitHub repository is currently named **`zoho-training-`** — the trailing h
 ## Contributing
 
 Found a step that's changed in Zoho, or have a better screenshot? Edit the relevant file in `guides/` and open a pull request, or hand it to whoever maintains this repo. Keep the tone practical and the steps numbered.
+
+## ⚡ Superpowers-enabled
+
+This repo bundles the [Superpowers](https://github.com/obra/superpowers) skills
+library for Claude Code under [`superpowers/`](./superpowers/). See
+[`superpowers/INSTALL.md`](./superpowers/INSTALL.md) for what it adds and how to
+enable it.
