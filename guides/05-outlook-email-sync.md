@@ -23,10 +23,10 @@ Most reps want **both**: background sync so nothing gets missed, and the add-in 
 
 This connects your Outlook mailbox so emails to/from your contacts land on their Zoho records automatically.
 
-1. In Zoho CRM, click the **Settings gear** (top-right).
-   [Screenshot: Settings gear icon in Zoho CRM top-right]
+1. In Zoho CRM, click **Settings ⚙** (the gear, top-right).
+   [Screenshot: Settings ⚙ gear icon in Zoho CRM top-right]
 2. Go to **Channels → Email → Email Configuration** (sometimes shown as **Email Settings**).
-   [Screenshot: Channels > Email menu in Zoho setup]
+   [Screenshot: Channels → Email menu in Zoho setup]
 3. Choose your provider: **Office 365 / Outlook**.
 4. Click **Connect / Authenticate** and sign in with your Motion Connected Microsoft 365 account.
    [Screenshot: Microsoft 365 sign-in and permissions consent screen]
@@ -81,7 +81,7 @@ The add-in puts Zoho *inside* Outlook so you can see CRM info and add emails man
 | Symptom | Likely fix |
 |---|---|
 | Emails aren't logging | The address on the email doesn't match a Contact — add/update the Contact's email |
-| "Authentication failed" | Reconnect under Settings → Channels → Email; re-approve Microsoft permissions |
+| "Authentication failed" | Reconnect under Settings ⚙ → Channels → Email; re-approve Microsoft permissions |
 | Add-in panel is blank | Sign in again inside the panel; make sure pop-ups aren't blocked |
 | Can't find the email options in Settings | Your admin may restrict this — ask them to enable email config for your profile |
 | Personal emails showing up | Set sync to your contacts only, or set sharing to **Private** |

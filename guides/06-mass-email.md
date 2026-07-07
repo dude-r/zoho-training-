@@ -23,7 +23,7 @@ Three pieces make a mass email:
 
 ## Step 1: Build an email template
 
-1. Click the **Settings gear** → **Templates → Email Templates** (or go through **Channels → Email**).
+1. Click **Settings ⚙** → **Templates → Email Templates** (or go through **Channels → Email**).
    [Screenshot: Email Templates section in Zoho settings]
 2. Click **+ New Template** and pick the **Contacts** module (so merge fields pull from contacts).
 3. Choose a layout or start blank.
@@ -70,7 +70,7 @@ The cleanest way is to start from a **custom view** of exactly the people you wa
 
 After sending, Zoho tracks engagement so you know what worked.
 
-1. Go to **Settings → Email → Email Analytics**, or open **Reports** for email metrics. (On some setups, tracking shows on the individual contact's timeline too.)
+1. Go to **Settings ⚙ → Email → Email Analytics**, or open **Reports** for email metrics. (On some setups, tracking shows on the individual contact's timeline too.)
    [Screenshot: Email Analytics dashboard with open and click rates]
 2. Look at:
    - **Sent / Delivered** — did it actually go out

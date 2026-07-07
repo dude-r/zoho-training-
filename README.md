@@ -10,6 +10,7 @@ Practical, step-by-step guides for the sales team. These are written for reps wh
 
 | # | Guide | What it covers |
 |---|-------|----------------|
+| 0 | [Glossary](guides/00-glossary.md) | Every Zoho term the guides use, defined and cross-linked — a reference, not a step |
 | 1 | [Accounts](guides/01-accounts.md) | What accounts are, viewing/creating/editing them, and reading the account hierarchy for your brokerage clients |
 | 2 | [Contacts at a Brokerage](guides/02-contacts-at-a-brokerage.md) | See every contact tied to a single brokerage in one place |
 | 3 | [Custom Views](guides/03-custom-views.md) | Create and use filtered views to organize your records |
